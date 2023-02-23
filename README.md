@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Carlos Tomàs Navarro Segarra
 
 Well, this is me...
