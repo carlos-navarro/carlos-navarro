@@ -1,8 +1,8 @@
 name: Report remaining open issues
 on: 
-  schedule: 
-    # Daily at 8:20 UTC
-    - cron: '14 12 * * *'
+  issues:
+    types:
+      - opened
 jobs:
   track_pr:
     runs-on: ubuntu-latest
